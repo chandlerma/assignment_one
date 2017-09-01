@@ -10,7 +10,7 @@ public class assignment1 {
         System.out.println("what year is it this year");
         year = scan.nextInt();
 
-        System.out.println("Please enter your the year that you were born");
+        System.out.println("Please enter the year that you were born");
         bYear = scan.nextInt();
 
         System.out.println("please enter an age");
